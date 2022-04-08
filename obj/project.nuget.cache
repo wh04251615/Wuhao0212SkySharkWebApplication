@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "GsmRsCxHxb+LNd6B1A1cJPCCvqiiFMpzgsaAokp8i4ypMH+mEX3/2RPjnNrxe+06iBvLQF3DUoquJ//piDe7Ng==",
+  "success": true,
+  "projectFilePath": "D:\\workspace\\CASE_2021-22.2\\MyRepos\\Wuhao0212SkySharkWebApplication\\Wuhao0212SkySharkWebApplication\\Wuhao0212SkySharkWebApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\吴皓\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\吴皓\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\吴皓\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\吴皓\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\吴皓\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\吴皓\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
