@@ -34,13 +34,16 @@
                     </td>
                 </tr>
                 <tr>
-                    <td colspan="3">
-                        <asp:Button ID="btnArchive" runat="server" Text="Archive information perraining to flights that have departed" Width="509px" BackColor="Silver" BorderColor="Blue" Font-Names="Bookman Old Style"/>
+                    <td colspan="2">
+                        <asp:Label ID="lblMessage" runat="server" Text=""></asp:Label>
                     </td>
                 </tr>
                 <tr>
                     <td colspan="3">
-                        <asp:Button ID="btnUpdate" runat="server" Text="Update customer information for the frequent fliers program" Width="509px" BackColor="Silver" BorderColor="Blue" Font-Names="Bookman Old Style"/>
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="3">
                     </td>
                 </tr>                
                 </table>

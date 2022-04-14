@@ -1,6 +1,11 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site1.Master" AutoEventWireup="true" CodeBehind="ManagerUsers.aspx.cs" Inherits="WangBowen0227SkySharkWebApplication.NA.ManagerUsers" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
     Network Administrator
+    <style type="text/css">
+        .auto-style1 {
+            height: 27px;
+        }
+    </style>
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
     <form id="form1" runat="server">
@@ -10,8 +15,6 @@
             <DynamicMenuStyle BackColor="#F7F6F3" />
             <DynamicSelectedStyle BackColor="#5D7B9D" />
             <Items>
-                <asp:MenuItem Selected="True" Text="Manage Users" Value="Manage Users" NavigateUrl="~/NA/ManagerUsers.aspx"></asp:MenuItem>
-                <asp:MenuItem Text="Manage Database" Value="Manage Database"></asp:MenuItem>
             </Items>
             <StaticHoverStyle BackColor="#7C6F57" ForeColor="White" />
             <StaticMenuItemStyle HorizontalPadding="5px" VerticalPadding="2px" />
@@ -42,17 +45,12 @@
                     <td></td>
 
                 </tr>
+
                 <tr>
-                    <td>
-                        <asp:Label ID="txtAddUsername" runat="server" Text="Username"></asp:Label>
                     </td>
-                    <td>
-                        <asp:TextBox ID="TextBox1" runat="server"></asp:TextBox>
                     </td>
-                    <td>
                         <asp:Label ID="Label3" runat="server" Text="Delete User"></asp:Label>
                     </td>
-                    <td>
                         <asp:TextBox ID="txtDelUserName" runat="server"></asp:TextBox>
                     </td>
                 </tr>
@@ -65,7 +63,6 @@
                     </td>
                     <td></td>
                     <td>
-                        <asp:Button ID="btnDelDelete" runat="server" Text="Delete" />
                     </td>
                 </tr>
                 <tr>
@@ -95,7 +92,6 @@
                 <tr>
                     <td></td>
                     <td>
-                        <asp:Button ID="btnAddSubmit" runat="server" Text="Submit" />
                     </td>
                     <td></td>
                     <td></td>
