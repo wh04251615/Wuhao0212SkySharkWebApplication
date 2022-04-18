@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site1.Master" AutoEventWireup="true" CodeBehind="ChangePassword.aspx.cs" Inherits="WangBowen0227SkySharkWebApplication.ChangePassword" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site1.Master" AutoEventWireup="true" CodeBehind="ChangePassword.aspx.cs" Inherits="Wuhao0212SkySharkWebApplication.ChangePassword" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
     HOME
 </asp:Content>
@@ -38,7 +38,6 @@
                 <tr>
                     <td></td>
                     <td>
-                        <asp:Button ID="btnSubmit" runat="server" Text="Submit" />
                     </td>
                     <td></td>
                 </tr>

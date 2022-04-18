@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site1.Master" AutoEventWireup="true" CodeBehind="default.aspx.cs" Inherits="WangBowen0227SkySharkWebApplication._default" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site1.Master" AutoEventWireup="true" CodeBehind="default.aspx.cs" Inherits="Wuhao0212SkySharkWebApplication._default" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
     HOME
 </asp:Content>
@@ -42,7 +42,6 @@
                     <tr>
                         <td></td>
                         <td>
-                            <asp:Button ID="btnSubmit" runat="server" Text="Submit" />
                         </td>
                         <td></td>
                     </tr>

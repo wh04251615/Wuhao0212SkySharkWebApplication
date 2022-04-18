@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.Security;
 using System.Web.SessionState;
 
-namespace WangBowen0227SkySharkWebApplication
+namespace Wuhao0212SkySharkWebApplication
 {
     public class Global : System.Web.HttpApplication
     {

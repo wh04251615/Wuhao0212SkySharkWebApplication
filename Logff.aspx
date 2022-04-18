@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site1.Master" AutoEventWireup="true" CodeBehind="Logff.aspx.cs" Inherits="WangBowen0227SkySharkWebApplication.Logff" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site1.Master" AutoEventWireup="true" CodeBehind="Logff.aspx.cs" Inherits="Wuhao0212SkySharkWebApplication.Logff" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
     HOME
 <style type="text/css">

@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
-namespace WangBowen0227SkySharkWebApplication
+namespace Wuhao0212SkySharkWebApplication
 {
     public partial class Logff : System.Web.UI.Page
     {
