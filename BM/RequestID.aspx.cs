@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
-namespace WangBowen0227SkySharkWebApplication.BM
+namespace Wuhao0212SkySharkWebApplication.BM
 {
     public partial class RequestID : System.Web.UI.Page
     {

@@ -7,7 +7,7 @@
 // </自动生成>
 //------------------------------------------------------------------------------
 
-namespace WangBowen0227SkySharkWebApplication.BM
+namespace Wuhao0212SkySharkWebApplication.BM
 {
 
 

@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site1.Master" AutoEventWireup="true" CodeBehind="AddFI.aspx.cs" Inherits="WangBowen0227SkySharkWebApplication.BM.AddFI" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site1.Master" AutoEventWireup="true" CodeBehind="AddFI.aspx.cs" Inherits="Wuhao0212SkySharkWebApplication.BM.AddFI" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
     Business Manager
     <style type="text/css">

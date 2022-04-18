@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site1.Master" AutoEventWireup="true" CodeBehind="FreqFI.aspx.cs" Inherits="WangBowen0227SkySharkWebApplication.BM.FreqFI" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site1.Master" AutoEventWireup="true" CodeBehind="FreqFI.aspx.cs" Inherits="Wuhao0212SkySharkWebApplication.BM.FreqFI" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
     Business Manager
 </asp:Content>
