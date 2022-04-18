@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
-namespace WangBowen0227SkySharkWebApplication.LOB
+namespace Wuhao0212SkySharkWebApplication.LOB
 {
     public partial class Cancle_Reservation : System.Web.UI.Page
     {
