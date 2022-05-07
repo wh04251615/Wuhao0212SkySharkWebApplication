@@ -40,10 +40,17 @@
                 </tr>
                 <tr>
                     <td colspan="3">
+
+                        <asp:Button  ID="btnArchive"  runat="server"  Text="Archive information perraining to flights that have departed"  Width="509px" OnClick="btnArchive_Click"  />
+
                     </td>
                 </tr>
                 <tr>
                     <td colspan="3">
+
+                        <asp:Button ID="btnUpdate" runat="server" Text="Update customer information for the frequent fliers program" Width="509px"  />
+
+
                     </td>
                 </tr>                
                 </table>

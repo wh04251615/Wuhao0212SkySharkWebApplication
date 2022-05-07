@@ -1,5 +1,5 @@
 MZ?       ˇˇ  ?       @                                   Ä   ? ???L?This program cannot be run in DOS mode.
-$       PE  L Wb        ? " 0  .         öL       `                           ?          `?                           HL  O    `  H                   Ä     K                                                               H           .text   ?       .                    `.rsrc   H   `      0              @  @.reloc      Ä      6              @  B                |L      H     ?  `#                                                         
+$       PE  L lMfb        ? " 0  `         ?       Ä                           ?          `?                           |  O    Ä  H                   ?     D~                                                               H           .text   ‘_       `                    `.rsrc   H   Ä      b              @  @.reloc      ?      h              @  B                ?      H     T?  ?                                                         
  *"(  
  *0 ?      o  
 r  po  
@@ -38,10 +38,10 @@ r? po
   ? {  o#  
 o  
   ? *     ëí   "($  
- *   0      o%  
+ *   0 ,     o%  
 o&  
 
-9?   {  o  
+9   {  o  
 {  o  
 (  
 r{  po  
@@ -59,7 +59,7 @@ rN po-
 o.  
 o/  
 ?, {  r^ po  
-  8:   o,  
+  8[   o,  
 rN po-  
 o.  
 o0  
@@ -83,47 +83,50 @@ rÄ p	o3
 
 , {  r? po  
  8?   	r1  p(  
--r5 p(  
--#r; p(  
--(+9(  
-rC po  
+-,r5 p(  
+-1r; p(  
+-6rC p(  
+-;+L(  
+rI po  
+ +9(  
+ru po  
  +&(  
-ro po  
+r? po  
  +(  
 r? po  
  +  + {  r? po  
    	o"  
   *"(4  
- *0 ?       {  r? po  
+ *   0 ?       {  r po  
  (  
 r{  po  
 o  
 
 s  
 o  
- r? ps  
+ r ps  
 o5  
  o  
-rˇ p(6  
+r3 p(6  
 (7  
 o   
 &o!  
 &o"  
- {  r po  
+ {  r? po  
   ? {  o#  
 o  
-  ? *     âä   0 ?       {  r? po  
+  ? *     âä   0 ?       {  r po  
  (  
 r{  po  
 o  
 
 s  
 o  
- rC ps  
+ rw ps  
 o5  
  o!  
 &o"  
- {  r_ po  
+ {  r? po  
   ? {  	o#  
 o  
   ? *     kl   0      {1  o8  
@@ -146,7 +149,7 @@ o)
 rN po-  
 o.  
 o/  
-?,P ?  %r p??r? p??r? p??r? p?:  
+?,P ?  %rE p??r? p??r? p??r? p?:  
 		s  
 
 
@@ -159,8 +162,8 @@ r{  po
 o  
 s  
 o  
- r? p(  
--?+, {&  r po  
+ r p(  
+-?+, {&  rF po  
   8?    r? prJ p('  
 s(  
 	s  
@@ -171,80 +174,641 @@ o)
 rN po-  
 o.  
 o/  
-?, {&  rV po  
- +P rÄ prJ p('  
+?, {&  r? po  
+ +P r? prJ p('  
 s  
 o!  
 &o"  
- {&  r? po  
- {*  r? po;  
-   *   BSJB         v4.0.30319     l   |  #~  ?  ?  #Strings    ?     #US ?     #GUID   ?  t  #Blob         W 	    ?3      =      ?   %   ,   ;                 ?      F? ?? zo
- ?   ?? )? 
-? ?? f? ? ?? ?? l? ?? ?
- ??
- ?K ?' A'
- ??
- >e
- ?K
- ?K
- 0
-K
- G
-K
- Ä	K U	: l: c	'
- K !
-: ?
- |
- ?K
- ?K ?'
- ?K
- ?K
- ?K
- ?K
- tK
- ?K
- N6
-  D' ?? 	? (? H	m	 ?: 
-: bm	
- ? 
-m	 ?   6	 ? ? ?
- 	K    d        @ c A     ?XQ     1XQ     ?X?  	   ?XQ     ?mQ     ÄmQ !    ??Q 3    ??Q <    ??Q E    ??Q i    ??Q |    ??Q ?     ??Q ? "   ??Q ? $  2( ? ( ] , ?0 V 0 ?4 ? 8 0 ?4 #8 ? < 	@ 2 D ] , 0 V 0 ]4 ? 8 0 ?4 #8 	@ ] , F H ] , ? M 9 0 F H ? H 0 ?@ "@ ] , ? M ?0 F H ? H 0 V 0 ?4 Q0 N4 ?0 ?4 _@ ?0 ?4 ?0 4R ?@ ] , ? M ?0 F H ? H V 0 ?4 ? 8 *@ ] , ? M ?0 F H ? H V 0 ?4 ? 8 3@ ] , ? M ?0 F H ? H * W { \ V 0 0 ?4 Q0 ?R ?0 Q a s @ \ ?0 ?0 ?4 0 ?4 &0 ?4 E0 K4  0 l4 " 0 ?4 ? 0 I0 i4 ?0 ?4 ,@ ?@ ] , ? M ?0 F H ? H * W { \ V 0 ?4 0 ?R Q0 a @ \ ?0 ?0 ?4 "@ ] , ? M V 0 F H ? H 0 ?4 ? 8 Q0 q4 #8 ?0 ?4 `8 ?0 ?4 ?8 ?0 ?4 ?8 0 ?4 ?8 &0 ?4 8 E0 ?4 -8  0 ^
-4 L8 " 0 ?4 	 8 s @ @ ] , ? M V 0 F H ? H ? f ;f xf ?f ? 4 ?f s @ ? k ] , ? M V 0 F H ? H 0 s @ Q0 @ ?0 RR ?R X@ ? k ] , ? M V 0 F H ? H 0 ?4 ? 8 Q0 ? R 	@P     ? 7p S     ?X
-  \     ? 7p ?    ? ?p ?    ?X
-  P     ? 7p ?    ? ?p	 ?    ?X
-  P     ? Zp ?    ?X
-  P     ? 7p ?    ?X
-  P     ? 7p ?    ? ~p ?    ? [p ?    ?X
-  P     ? 7p P%    ? ?p |&    ? kp ?    ?X
-  P     ? 7p ?    ?X
-  P     ? 7p ?    ?X
-  P     ? 7p ?    ?X
- ! P     ? 7p! ?    ?X
- # P     ? 7p# P     ? Ap% ?    ?X
- ' P     ? 7p' ?    ?X
- ) P     ? 7p) ?    ?X
- + P     ? 7p+ ?    ?X
- -    ?   ?   ?   ?   ?   ?   ?   ?   ?   ?   ?   ?   ?   ?   ?   ?   ?   ?   ?   ?   ?   ?   ?   ?   ?   ?   ?   ?   ?   ?   ?   ?   ?   ?   ?   ?   ?   ?   ?   ?   ?   ?   ?   ?	 X
-  X
-  X
+ {&  r po  
+ {*  r po;  
+   *   0      {K  o<  
+o=  
+o>  
+o?  
+o  
+o2  
+r4 p(  
 
- ) X
- 1 X
- 9 X
- A X
- I X
- Q X
- Y X
- a X
- i X
- q X
- y X
- ? X
- ? L Y% ? ?* a? ? B0 i?4 i?: ? ? qK yQ ?-0 ? X
- ?G ? X
-X ? ?_ ? ?0 ??e ??m ? ? 	0 ? X
- ??? ? V? i?? ? X
- ? w? X
- ?? ?? ?? ??? ?Pm ?? ?? i.0 Y? 	X
- ??? !?? !0 ??0 ??m i?ˇ ? ? .  w.  Ä.  ?. # ?. + ?. 3 ?. ; ?. C ?. K ?. S ?. [ ?. c ?. k . s & @ q ? ? ? Ä               X             )                                             ?         Label10 RequiredFieldValidator10 Label11 Wizard1 Image1 Lable1 Site1 HyperLink1 Cal1 Label1 form1 WebApplication1 Button1 WizardStep1 ContentPlaceHolder1 RequiredFieldValidator1 CompareValidator1 DropDownList1 Menu1 GridView1 ListBox1 TextBox1 Label12 HyperLink2 Label2 Button2 WizardStep2 RequiredFieldValidator2 DropDownList2 Label13 Label3 Button3 RequiredFieldValidator3 DropDownList3 Label14 Label4 RequiredFieldValidator4 DropDownList4 Label5 RequiredFieldValidator5 Label6 RequiredFieldValidator6 DropDownList6 Label7 RequiredFieldValidator7 Label8 RequiredFieldValidator8 Label9 RequiredFieldValidator9 <Module> Wuhao0212SkySharkWebApplication.NA Wuhao0212SkySharkWebApplication.LOB txtUserID RequestID AddFI FreqFI System.Web.UI Wuhao0212SkySharkWebApplication.BM System.Data System.Web mscorlib head Page_Load TextBox1_TextChanged get_IsValid DbCommand SqlCommand set_SelectCommand Wizard txtAddPassword ChangePassword txtConfPassword txtAddConfirmPassword txtPassword txtOriginPlace get_Page MasterPage Image get_Message lblMessage DataTable btnCancle lstAddRole txtAddUserName txtDelUserName txtUserName txtName txtDepartureTime DateTime txtArrivalTime txtDepTime set_CommandType txtAirCraftType txtFare InternalDataCollectionBase ManageDatabase get_Response HttpResponse Close calDepDate btnUpdate btnCreate System.Web.SessionState HttpSessionState btnDelDelete GuidAttribute DebuggableAttribute ComVisibleAttribute AssemblyTitleAttribute AssemblyTrademarkAttribute TargetFrameworkAttribute AssemblyFileVersionAttribute AssemblyConfigurationAttribute AssemblyDescriptionAttribute CompilationRelaxationsAttribute AssemblyProductAttribute AssemblyCopyrightAttribute AssemblyCompanyAttribute RuntimeCompatibilityAttribute get_SelectedValue AddWithValue btnArchive Logff System.Runtime.Versioning ToShortDateString get_ConnectionString ToString txtOrg lstMonth btnUpdate_Click btnDelDelete_Click btnArchive_Click btnAddSubmit_Click btnSubmit_Click HyperLink Global Label btnCancel txtEMail Wuhao0212SkySharkWebApplication.dll Fill ListControl get_Item set_Item System Trim btnConfirm HtmlForm Open get_Session Wuhao0212SkySharkWebApplication HttpApplication txtDestination System.Configuration Cancle_Reservation ConfirmReservation System.Reflection DataTableCollection SqlParameterCollection ConnectionStringSettingsCollection DataRowCollection DbConnection SqlConnection Exception System.Data.Common Button txtTNo txtFlightNo txtFltNo WizardStep Calendar lstYear txtFlightnumber ContentPlaceHolder sender ConfigurationManager txtUser SqlParameter DbDataAdapter SqlDataAdapter RequiredFieldValidator CompareValidator .ctor txtNumberofSteas System.Diagnostics CreateRes System.Runtime.InteropServices System.Runtime.CompilerServices DebuggingModes get_Tables txtExecutiveClassFares txtBusinessclassfares get_ConnectionStrings ConnectionStringSettings EventArgs System.Web.UI.WebControls System.Web.UI.HtmlControls ManagerUsers get_Parameters lstClass txtNumberofseats Reports txtStatus QuaryStatus get_Rows Concat Object Redirect DataSet btnAddSubmit btnSubmit btnFStatSubmit btnTStatSubmit _default System.Data.SqlClient get_Count Application_Start txtDest DropDownList get_Text set_Text Menu GridView DataRow get_SelectedIndex ListBox TextBox get_Today ExecuteNonQuery op_Equality     u s r R o l e  . . \ d e f a u l t . a s p x  A d m i n  +C h a n g i n g   p a s s w o r d   f o r  u s e r N a m e  7A R P D a t a b a s e C o n n e c t i o n S t r i n g  Äªu p d a t e   d t U s e r s   S E T   P a s s w o r d   =   @ P a s s w o r d , P a s s w o r d C h a n g e d = ' 1 '   w h e r e ( U s e r n a m e = @ o r i g i n a l _ u s e r n a m e P a s s w o r d  #o r i g i n a l _ u s e r n a m e  +~ / N A / M a n a g e U s e r s . a s p x  wS e l e c t   U s e r n a m e , P a s s w o r d , R o l e   f r o m   d t U s e r s   w h e r e   U s e r n a m e = ' ' d t U s e r s  !I n v a l i d   u s e r n a m e  u s e r R o l e  D i s a b l e d  ÄèY o u r   a c c o u n t   h a s   b e e n   d i s a b l e d . P l e a s e   c o n t a c t   t h e   n e t w o r k   A d m i n i s t r a t o r  B M  L O B  +. \ N A \ M a n a g e U s e r s . a s p x  . \ B M \ A d d F I . a s p x  '. \ L O B \ C r a t e R e s . a s p x  !I n v a l i d   p a s s w o r d   #U p d a t e R e s e r v a t i o n  @ d a t e  7U p d a t e   R e r e s v a t i o n s   D o n e ! ! !  F r e q u e n t F l i e r  9U p d a t e   F r e q u e n t F l i e r   D o n e ! ! !  wS e l e c t   U s e r N a m e , P a s s w o r d , r o l e   f r o m   d t U s e r s   w h e r e   U s e r N a m e = ' ÄÅI N S E R T   I N T O   [ d t U s e r s ]   ( [ U s e r n a m e ] ,   [ P a s s w o r d ] ,   [ R o l e ] )   V A L U E S   ( ' ' , ' ' ) oT h e   u s e r n a m e   a l r e a d y   e x i s t s ; P l e a s e   t r y   a n o t h o r   u s e r n a m e  CP l e a s e   s p e c i f y   a   v a l i d   u s e r   n a m e .  )U s e r   d o e s   n o t   e x i s t s  Md e l e t e   f r o m   d t U s e r s   w h e r e   U s e r n a m e   =   ' 1U s e r   d e l e t e   s u c c e s s f u l l y  —Ìır\å“N£Kÿ—!|K?         Ä?   Ä?    
-mqu  Ä? Ä? m  Ä? Ä?  m}Ä?  Q    q Ä?  Ä? Ä?  Ä? Ä?  mqÄ?u Ä?  Ä?mqum}Ä?q 	m}Ä?q∑z\V4‡â?_?:EUY]aeiyÄ?Ä?Ä?Ä?Ä?Ä?Ä?Ä? M        TWrapNonExceptionThrows     ( #Wuhao0212SkySharkWebApplication       Copyright ¬©  2022  ) $3a5a8d68-a9eb-465e-8c5c-d969c7129847   1.0.0.0  M .NETFramework,Version=v4.7.2 TFrameworkDisplayName.NET Framework 4.7.2    Wb         ,K  ,-  RSDS%Á›//1ÀB?)Â¨°Œ   E:\Â§ñÊïô‰Ωú‰∏ö\MyRepos\Wuhao0212SkySharkWebApplication\Wuhao0212SkySharkWebApplication\obj\Debug\Wuhao0212SkySharkWebApplication.pdb                                                                                                                   pL          äL                          |L            _CorDllMain mscoree.dll     ˇ%                                                                                                                                                                                                                                                                                                                                                                                       Ä                  0  Ä                   H   X`  ?          ?4   V S _ V E R S I O N _ I N F O     ?Ô˛                 ?                         D    V a r F i l e I n f o     $    T r a n s l a t i o n       ?L   S t r i n g F i l e I n f o   (   0 0 0 0 0 4 b 0      C o m m e n t s       "   C o m p a n y N a m e         p $  F i l e D e s c r i p t i o n     W a n g B o w e n 0 2 2 7 S k y S h a r k W e b A p p l i c a t i o n   0   F i l e V e r s i o n     1 . 0 . 0 . 0   p (  I n t e r n a l N a m e   W a n g B o w e n 0 2 2 7 S k y S h a r k W e b A p p l i c a t i o n . d l l   H   L e g a l C o p y r i g h t   C o p y r i g h t   ?     2 0 2 2   *   L e g a l T r a d e m a r k s         x (  O r i g i n a l F i l e n a m e   W a n g B o w e n 0 2 2 7 S k y S h a r k W e b A p p l i c a t i o n . d l l   h $  P r o d u c t N a m e     W a n g B o w e n 0 2 2 7 S k y S h a r k W e b A p p l i c a t i o n   4   P r o d u c t V e r s i o n   1 . 0 . 0 . 0   8   A s s e m b l y   V e r s i o n   1 . 0 . 0 . 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                @     ?                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+9?   {T  o@  
+(A  
+(B  
+, {N  rL po  
+ oC  
+ 8?  (  
+r{  po  
+o  
+s  
+o  
+ r| p	s  
+o  
+r? p{P  o  
+o2  
+o   
+&o  
+r? p{T  o@  
+		(7  
+o   
+&sD  
+s*  
+r? po+  
+&o"  
+  o,  
+r? po-  
+o.  
+oE  
+
+8E  
+oF  
+t+   o1  
+o  
+o2  
+oG  
+{P  o  
+oG  
+(  
+9?    {^  o1  
+o  
+o;  
+ {`  o1  
+o  
+o;  
+ {b  o1  
+o  
+o1  
+o  
+oH  
+YoI  
+o2  
+o;  
+ {R  o9  
+?, {Z  o1  
+o  
+o;  
+  + {Z  o1  
+o  
+o;  
+   {X  r? po;  
+ {N  r po  
+ r? ps  
+o  
+r? p{P  o  
+o2  
+o   
+&sD  
+s*  
+r~	 po+  
+&o"  
+ o,  
+r~	 po-  
+o.  
+o/  
+?, {\  r? po;  
+  8?    o,  
+r~	 po-  
+o.  
+o0  
+o1  
+o  
+(J  
+??,1 {\  r? pY(K  
+(L  
+r? p('  
+o;  
+  + {\  r? p(L  
+(  
+o;  
+    
+oM  
+:Ø˝ˇˇ?
+u,  ,oN  
+ ??, {N  r? po  
+ oC  
+ 85   {K  o<  
+o=  
+o>  
+o?  
+o  
+o2  
+r.
+ p(  
+9?    {P  o  
+o2  
+{R  oO  
+oP  
+o2  
+{g  o  
+o2  
+(6  
+		(Q  
+		(7  
+{T  o@  
+		(7  
+{i  o  
+o2  
+ {Z  o  
+o2  
+(J  
+"(  
+r{  po  
+o  
+##s  
+$$o  
+ rF
+ p%%$s  
+&&o  
+r? p{P  o  
+o2  
+o   
+&&sD  
+'s*  
+('(r~	 po+  
+&$o"  
+ (o,  
+r~	 po-  
+o.  
+o/  
+?))9?   $o  
+ r? p**$s  
+++o  
+r? p{P  o  
+o2  
+o   
+&+o  
+r? p{T  o@  
+		(7  
+o   
+&+sD  
+,s*  
+-,-r? po+  
+&$o"  
+  -o,  
+r? po-  
+o.  
+oE  
+08	  0oF  
+t+  1 1o1  
+o  
+o2  
+oG  
+{P  o  
+oG  
+(  
+229?    {R  o9  
+?55, 1o1  
+o  
+. + 1o1  
+o  
+. .(J  
+/$o  
+ r p33$s  
+44o  
+r? po   
+&4o  
+r? po   
+&4o  
+r po   
+&4o  
+r/ p/YåF  o   
+&4o!  
+&$o"  
+   0oM  
+:Î˛ˇˇ?0u,  ,oN  
+ ?! 8?    (o,  
+r~	 po-  
+o.  
+o0  
+o1  
+(R  
+66??99,
+ 6Y! + ! !}E  $o  
+ r? p77$s  
+88o  
+r" p!åF  o   
+&8o  
+r? po   
+&8o  
+r? po   
+&8o  
+r po   
+&8o!  
+&$o"  
+   ?&  ?  *   AL     3  X  ?            ?    	               ?  ?       0 ?  	   {K  o<  
+o=  
+o>  
+o?  
+o  
+o2  
+r2 p(  
+
+9?   {g  o  
+r p(  
+-{g  o  
+?+, {e  rJ po  
+ 8;  rl p {P  o  
+o2  
+{R  oO  
+oP  
+o2  
+{g  o  
+o2  
+(6  
+(Q  
+(7  
+{T  o@  
+(7  
+{i  o  
+o2  
+{Z  o  
+o2  
+(J  
+
+(  
+r{  po  
+o  
+s  
+o  
+ rp ps  
+r? ps  
+sD  
+s*  
+r po+  
+&o,  
+r po-  
+o.  
+o/  
+?9?    o,  
+r po-  
+o.  
+o0  
+o1  
+o  
+o2  
+(J  
++z o,  
+r po-  
+o.  
+o0  
+o1  
+o  
+o2  
+(J  
+?,6 o,  
+r po-  
+o.  
+o0  
+o1  
+o  
+o2  
+(J  
+  Xo,  
+r po-  
+o.  
+o/  
+?:^ˇˇˇ +  X(S  
+o  
+r po   
+&o  
+r? p{P  o  
+o2  
+o   
+&o  
+r) p{T  o@  
+(7  
+o   
+&o  
+rG p{R  o8  
+o  
+o   
+&o  
+r_ po   
+&o  
+rk po   
+&ry ps  
+o  
+r? p{i  o  
+o   
+&sD  
+s*  
+r po+  
+&o,  
+r po-  
+o.  
+o/  
+?  ,A o,  
+r po-  
+o.  
+o0  
+o1  
+o  
+(J  
+!d!Yd[!
+!Y
+ o  
+r p
+åF  o   
+&o  
+r/ p{E  åF  o   
+&o  
+r% pr1  po   
+&o  
+r= po   
+&o  
+rS p(T  
+åH  o   
+&o!  
+{e  ru p
+(L  
+r? p(U  
+o  
+  ?" {e  "o#  
+o  
+  ?  *   A      ?     ?       >}E  ($  
+ *0 P  
+   (  
+r{  po  
+o  
+s  
+
+o  
+ r? ps(  
+s  
+o)  
+ s*  
+	r po+  
+&o"  
+  	o,  
+r po-  
+o.  
+oE  
++ToF  
+t+  	 	o1  
+o  
+o2  
+{?  o  
+o2  
+(  
+
+
+, {?  r' po  
+ ›á   oM  
+-£ﬁu,  ,oN  
+ ?  {?  o  
+(V  
+(W  
+{?  o  
+(V  
+(W  
+{?  o@  
+(7  
+?-  o  
+(  
+{?  o@  
+(7  
+?-  o  
+(  
+(X  
+, {?  r? po  
+ ›Ø   ? {?  r po  
+ ›ì    o  
+ rY ps  
+o  
+r? p{?  o  
+o2  
+o   
+&o  
+r? p{?  o  
+o2  
+o   
+&o  
+r? p{?  o  
+o2  
+o   
+&o  
+r? po   
+&o  
+r? po   
+&o  
+r? p{?  o  
+o2  
+o   
+&o  
+r? p{?  o  
+o2  
+(J  
+åF  o   
+&o  
+r p{?  o  
+o2  
+(J  
+åF  o   
+&o  
+r p{?  o  
+o2  
+(J  
+åF  o   
+&o  
+r, p{?  o  
+o2  
+(J  
+åF  o   
+&o  
+r< p(6  
+(Q  
+(7  
+o   
+&o!  
+o"  
+  ? {?  o#  
+o  
+ o"  
+ ›ª   {?  rT po  
+ {?  r po;  
+ {?  r po;  
+ {?  r po;  
+ {?  r po;  
+ {?  r po;  
+ {?  r po;  
+ {?  r po;  
+ {?  r po;  
+ {?  r po;  
+ {?  r po;  
+ *AL     s   a   ?              ?   ?   ?           ?  ?  r  "     0 ?        {?  r po;  
+ {?  r po;  
+ {?  r po;  
+ {?  r po;  
+ {?  r po;  
+ {?  r po;  
+ {?  r po;  
+ {?  r po;  
+ {?  r po;  
+ {?  r po;  
+ *0 ;      {?  r po  
+ (  
+r{  po  
+o  
+s  
+
+o  
+ r? ps  
+o  
+r? p{?  oO  
+oP  
+o2  
+o   
+&o  
+r? p{?  oO  
+oP  
+o2  
+o   
+&o!  
+o"  
+ {?  r? po  
+ r? ps(  
+s  
+o)  
+ s*  
+r po+  
+&o"  
+ o,  
+r po-  
+sY  
+{?  oZ  
+ {?  o[  
+  ?	 {?  	o#  
+o  
+  ? * A            !       0 6      {?  r po  
+ (  
+r{  po  
+o  
+s  
+
+o  
+ r- ps  
+o  
+r? p{?  oO  
+oP  
+o2  
+o   
+&o  
+r? p{?  o  
+o2  
+o   
+&o!  
+o"  
+ {?  r? po  
+ r? ps(  
+s  
+o)  
+ s*  
+r po+  
+&o,  
+r po-  
+sY  
+{?  oZ  
+ {?  o[  
+ o"  
+  ?	 {?  	o#  
+o  
+  ? *  A                  0 ?      {?  oO  
+oP  
+o2  
+
+{?  oO  
+oP  
+o2  
+r" p('  
+(  
+r{  po  
+o  
+s  
+	o  
+ r. p	s  
+o  
+r3 po   
+&s(  
+s*  
+r po+  
+&	o"  
+ o,  
+r? po-  
+sY  
+{?  oZ  
+ {?  o[  
+ *  0 ?      (  
+r{  po  
+o  
+s  
+
+o  
+ r ps  
+s(  
+s*  
+	r? po+  
+&o"  
+ o,  
+r? po-  
+sY  
+{?  oZ  
+ {?  o[  
+ *   0 ?      (  
+r{  po  
+o  
+s  
+
+o  
+ r? ps  
+s(  
+s*  
+	r? po+  
+&o"  
+ o,  
+r? po-  
+sY  
+{?  oZ  
+ {?  o[  
+ *   BSJB         v4.0.30319     l   ?  #~     8  #Strings    8  ?  #US ?     #GUID   ;  ?  #Blob         W 	    ?3      I      ?   .   <   [                 ?      ?\ @\   |   /8
+ ?8
+ ?8
+ '8
+ ?8
+ 8
+ F8
+ = ?= z8
+ a?
+ P2
+ V ?v	 v	
+ V2
+ ?&
+ ?
+ ?
+ ?
+ ?
+ ? ?/ ?/ ?v	
+ [ ?/ ?g
+ ?s
+ ?
+ ? ?v	
+ ?
+ ?
+ *
+ 5
+ ? ?A ?g ?v	 ?v	
+ }
+ ? ?g
+ ??
+ ys ?v	 p? ?? ?? ?? s
+/ ?/ ??
+ B	2 ?? J
+g xg ?g 3g g
+ >	
+ ^
+
+ N mv	 $v	
+ m	 ?v	
+ )	    ?        I ? A     ??Q     &?Q     ???  	   ??Q     ??Q     ]?Q     d?Q !    
+?Q 3    %
+?Q <    3?Q E    ??Q j    %@Q } !   +@Q ? $   ?@Q ? (   @Q ? -  ?? ? ?  ? ?? x ? ? ? ? >? ?? c? ? ? ?? ; ?  ? m? x ? ?? ? ? >? ? c? ??  ? h ?  ? ? B ? h ? 3? m? }? ??  ? ? ?? h ? 3? m? x ? ?? ?? ?? ?? ?? ?? ? ? 6? ?? ??  ? ? ?? h ? 3? x ? ? ? ? ??  ? ? ?? h ? 3? x ? ? ? ? ?? ??  ? ? ?? h ? 3? 3 ? ? ? x ? ? ? >? !? ?? Ä? ?? s ? M? ? 6? ? U? +? t? ?? ?? ??  ? u? " ?  ? ?? ? ?? {? ?? ?? ??  ? ? ?? h ? 3? 3 ? ? ? x ? ? >? Ä? ?? ?? ? M? ?? ? ? ?  ? ? x ? h ? 3? m? >? F? ? ? ?? ? ? ?? c? ?? )? ?? ? Y? ?? ˇ? 6? ?? ? U? ? =? t? ?? \? ?? ?? {?  ? ? ?? " ? ?? 	 ? ?? ??  ? ? x ? h ? 3? m? ?? * ? ? ? +? *? E? ?  ? ? x ? h ? 3? >? ? ? ?? E? ?? ?? >? ?? ?  ? ? x ? h ? 3? >? ? ? ? ?? ? ??P     ? ?? S     ?  \     ? ?? ?    ? ~? ?    ?  P     ? ?? ?    ? ~?	 ?    ?  P     ? [? $    ?  P     ? ?? ?    ?  P     ? ?? ?    ?  P     ? ?? $    ? Z? ?    ? 7? ?    ?  P     ? ?? t%    ? k? ?    ? G? ?    ?  P     ? ?? ?    ?  P     ? ?? ?    ? ! P     ? ??! ?    ? O ?# 00    ? ??% 5    ? ' P     ? ??' ?    ? ) $5    ? ~?) ?    ? '?+ ?    ? - P     ? ??- ?    ? ??/ ?    ? ?1 ?    ? 3 P     ? ??3 H=    ? ?5 ,>    ? ??7 ?    ? ?9 ?    ? ; P     ? ??; ?    ? =    i   ?   i   ?   i   ?   i   ?   i   ?   i   ?   i   ?   i   ?   i   ?   i   ?   i   ?   i   ?   i   ?   i   ?   i   ?   i   ?   i   ?   i   ?   i   ?   i   ?   i   ?   i   ?   i   ?   i   ?   i   ?   i   ?   i   ?   i   ?   i   ?   i   ?	     
+ )  1  9  A  I  Q  Y  a  i  q  y  ?  ? ? ?J	% ? l* ?? ? ?0 ?+4 ??: ? ? ??K ?J	Q ??0 ?  ?? ? X ? q_ ? ?0 ?pe ?m ?? ? a0 ?  ?G? ? ?? ??? ?  ? ??  ?$	? ?? ?J	? ??? Qm ?J	? YJ	? ?}	0 ?S	? 	 ?? !? !?0 ^0 ?m ??ˇ ? ? 1TsI?m J	y?
+0 A?Ä!?? !??I? ? ? ??QE???0 ??m ???)"?)"?1?0 Q?? a? \	?9?0 !?Ä)"?)??)?????)?%!,i?2?RI8Y?? .  ?.  ?.  . # . + G. 3 G. ; G. C . K M. S G. [ G. c e. k ?. s ? @ q ? ? ? ??<^qÄ               ?             ?~               ?s               ?g               ??         Label10 RequiredFieldValidator10 Label11 lstDisc1 Wizard1 Image1 Lable1 Site1 Wizard1_NextButtomClick1 HyperLink1 Cal1 Label1 form1 WebApplication1 Button1 WizardStep1 lblMessageStep1 Calendar1 ContentPlaceHolder1 RequiredFieldValidator1 CompareValidator1 Menu1 GridView1 ListBox1 Label12 ToInt32 lstDisc2 HyperLink2 Label2 Button2 WizardStep2 Calendar2 RequiredFieldValidator2 Label13 Label3 Button3 WizardStep3 lblMessageStep3 RequiredFieldValidator3 Wuhao0212SkySharkWebApplication.test3 Label14 Label4 RequiredFieldValidator4 Label5 RequiredFieldValidator5 Label6 RequiredFieldValidator6 Label7 RequiredFieldValidator7 Label8 RequiredFieldValidator8 Label9 RequiredFieldValidator9 <Module> Wuhao0212SkySharkWebApplication.NA Wuhao0212SkySharkWebApplication.LOB get_ID txtUserID RequestID AddFI FreqFI System.Web.UI Wuhao0212SkySharkWebApplication.BM System.Data System.Web mscorlib head Page_Load get_IsValid DbCommand SqlCommand set_SelectCommand DataBind Wizard txtAddPassword ChangePassword txtConfPassword txtAddConfirmPassword txtPassword txtOriginPlace set_DataSource get_Page MasterPage Image get_Message lblMessage DataTable IDisposable btnCancle lstAddRole txtAddUserName txtDelUserName txtUserName txtName txtDepartureTime ToDateTime txtArrivalTime txtDepTime set_CommandType txtAirCraftType txtFare InternalDataCollectionBase WizardStepBase ManageDatabase get_Response HttpResponse Close Dispose get_Date get_SelectedDate calDepDate btnUpdate System.Web.SessionState HttpSessionState btnDelDelete GuidAttribute DebuggableAttribute ComVisibleAttribute AssemblyTitleAttribute AssemblyTrademarkAttribute TargetFrameworkAttribute AssemblyFileVersionAttribute AssemblyConfigurationAttribute AssemblyDescriptionAttribute CompilationRelaxationsAttribute AssemblyProductAttribute AssemblyCopyrightAttribute AssemblyCompanyAttribute RuntimeCompatibilityAttribute get_SelectedValue AddWithValue btnArchive Logff System.Runtime.Versioning ToShortDateString get_ConnectionString ToString Substring txtOrg get_Length lstMonth Button1_Click Button2_Click Button3_Click btnCancle_Click btnUpdate_Click btnDelDelete_Click btnArchive_Click btnAddSubmit_Click btnSubmit_Click Wizard1_FinishButtonClick HyperLink Global op_GreaterThanOrEqual op_LessThanOrEqual Label set_Cancel txtEMail Wuhao0212SkySharkWebApplication.dll Fill BaseDataBoundControl ListControl get_Item set_Item get_SelectedItem ListItem System Trim btnConfirm HtmlForm ToBoolean TimeSpan Open get_Session Wuhao0212SkySharkWebApplication HttpApplication txtDestination System.Configuration Cancle_Reservation ConfirmReservation System.Reflection DataTableCollection WizardStepCollection SqlParameterCollection ConnectionStringSettingsCollection DataRowCollection DbConnection SqlConnection Exception System.Data.Common Button listTimeFollown txtTNo txtFlightNo txtFltNo WizardStep Calendar lstYear txtFlightnumber ContentPlaceHolder sender ConfigurationManager txtUser SqlParameter DbDataAdapter SqlDataAdapter ToLower RequiredFieldValidator CompareValidator IEnumerator GetEnumerator .ctor txtNumberofBusinessSteas System.Diagnostics CreateRes System.Runtime.InteropServices System.Runtime.CompilerServices DebuggingModes get_Tables txtExecutiveClassFares txtBusinessclassfares get_ConnectionStrings ConnectionStringSettings WizardNavigationEventArgs System.Web.UI.WebControls System.Web.UI.HtmlControls System.Collections get_WizardSteps ManagerUsers get_Parameters lstClass txtNumberofExecutiveSeats Reports FStatus txtStatus QuaryStatus get_Rows Concat Object Redirect DataSet btnAddSubmit btnSubmit btnFStatSubmit btnTStatSubmit _default System.Data.SqlClient get_Current get_Count Application_Start Convert txtDest DropDownList MoveNext get_Text set_Text Menu DataView GridView get_Now DataRow get_SelectedIndex get_CurrentStepIndex ListBox TextBox get_TimeOfDay get_Today ExecuteNonQuery op_Equality   u s r R o l e  . . \ d e f a u l t . a s p x  A d m i n  +C h a n g i n g   p a s s w o r d   f o r  u s e r N a m e  7A R P D a t a b a s e C o n n e c t i o n S t r i n g  Äªu p d a t e   d t U s e r s   S E T   P a s s w o r d   =   @ P a s s w o r d , P a s s w o r d C h a n g e d = ' 1 '   w h e r e ( U s e r n a m e = @ o r i g i n a l _ u s e r n a m e P a s s w o r d  #o r i g i n a l _ u s e r n a m e  +~ / N A / M a n a g e U s e r s . a s p x  wS e l e c t   U s e r n a m e , P a s s w o r d , R o l e   f r o m   d t U s e r s   w h e r e   U s e r n a m e = ' ' d t U s e r s  !I n v a l i d   u s e r n a m e  u s e r R o l e  D i s a b l e d  ÄèY o u r   a c c o u n t   h a s   b e e n   d i s a b l e d . P l e a s e   c o n t a c t   t h e   n e t w o r k   A d m i n i s t r a t o r  B M  L O B  N A  +. \ N A \ M a n a g e U s e r s . a s p x  . \ B M \ A d d F I . a s p x  '. \ L O B \ C r a t e R e s . a s p x  -. \ L O B \ M a n a g e U s e r s . a s p x  !I n v a l i d   p a s s w o r d   #U p d a t e R e s e r v a t i o n  @ d a t e  7U p d a t e   R e r e s v a t i o n s   D o n e ! ! !  F r e q u e n t F l i e r  9U p d a t e   F r e q u e n t F l i e r   D o n e ! ! !  wS e l e c t   U s e r N a m e , P a s s w o r d , r o l e   f r o m   d t U s e r s   w h e r e   U s e r N a m e = ' ÄÅI N S E R T   I N T O   [ d t U s e r s ]   ( [ U s e r n a m e ] ,   [ P a s s w o r d ] ,   [ R o l e ] )   V A L U E S   ( ' ' , ' ' ) oT h e   u s e r n a m e   a l r e a d y   e x i s t s ; P l e a s e   t r y   a n o t h o r   u s e r n a m e  CP l e a s e   s p e c i f y   a   v a l i d   u s e r   n a m e .  )U s e r   d o e s   n o t   e x i s t s  Md e l e t e   f r o m   d t U s e r s   w h e r e   U s e r n a m e   =   ' 1U s e r   d e l e t e   s u c c e s s f u l l y  W i z a r d S t e p 1  /I n v a l i d   D e a p a r t u r e   D a t e  ?S E L E C T   F l t N o , O r i g i n , D e s t i n a t i o n , D e p t i m e , F a r e E x e c , F a r e B n   F R O M   d t F l t D e t a i l s   w h e r e   F l t N o = @ F l t N o   a n d   c o n v e r t ( d a t e , D e p t i m e , 1 0 1 )   = @ D e p t i m e  @ F l t N o  @ D e p t i m e  F l t D e t a i l s  A u t o   G e n e r a t e d  Ä°s e l e c t   F l t N o , S t a t u s D a t e , S t a t u s C l a s s   , S t a t u s   f r o m   d t F l t S t a t u s   w h e r e     F l t N o = @ F l t N o  F l t S t a t u s  A v a i l a b l e  W a i t L i s t e d   (  )  A v a i l a b l e   :  QI n c o r r e c t   f l i g h t   n u m b e r . P l e a s e   t r y   a g a i n  W i z a r d S t e p 2  Ä£s e l e c t   F l t N o , S t a t u s D a t e , S t a t u s C l a s s   , S t a t u s   f r o m   d t F l t S t a t u s   w h e r e     F l t N o = @ F l t N o    ?S E L E C T   F l t N o , O r i g i n , D e s t i n a t i o n , D e p t i m e , F a r e E x e c , F a r e B n , S e a t s E x e c , S e a t s B n   F R O M   d t F l t D e t a i l s   w h e r e   F l t N o = @ F l t N o   a n d   c o n v e r t ( d a t e , D e p t i m e , 1 0 1 )   = @ D e p t i m e  Ä·I N S E R T   I N T O   d t F l t S t a t u s ( F l t N o ,   S t a t u s D a t e ,   S t a t u s C l a s s ,   S t a t u s )   V A L U E S ( @ F l t N o ,   @ S t a t u s D a t e , @ S t a t u s C l a s s , @ S t a t u s )  @ S t a t u s D a t e  @ S t a t u s C l a s s  @ S t a t u s  Ä·U p d a t e   d t F l t S t a t u s   s e t   S t a t u s = @ s t a t u s   w h e r e   F l t N o = @ F l t N o   a n d   S t a t u s D a t e = @ S t a t u s D a t e   a n d   S t a t u s C l a s s = @ S t a t u s C l a s s  @ s t a t u s  W i z a r d S t e p 3  !I n v a l i d   U s e r n a m e  1  ÇII N S E R T   I N T O   [ d t R e s e r v a t i o n s ]   ( [ T i c k e t N o ] ,   [ F l t N o ] ,   [ D a t e O f J o u r n e y ] ,   [ C l a s s O f R e s ] ,   [ N a m e ] ,   [ E M a i l ] ,   [ F a r e ] ,   [ S t a t u s ] ,   [ R e s e r v e d B y ] ,   [ D a t e O f R e s ] ,   [ T i c k e t C o n f i r m e d ] )   V A L U E S   ( @ T i c k e t N o ,   @ F l t N o ,   @ D a t e O f J o u r n e y ,   @ C l a s s O f R e s ,   @ N a m e ,   @ E M a i l ,   @ F a r e ,   @ S t a t u s ,   @ R e s e r v e d B y ,   @ D a t e O f R e s ,   @ T i c k e t C o n f i r m e d )  Gs e l e c t   T i c k e t N o   f r o m   d t R e s e r v a t i o n s  T i c k e t N o  @ T i c k e t N o  @ D a t e O f J o u r n e y  @ C l a s s O f R e s  @ N a m e  @ E M a i l  S E L E C T   E M a i l , D i s c o u n t   F R O M   d t F r e q u e n t F l i e r s   w h e r e   e m a i l = @ e m a i l ;  @ e m a i l  d i s c o u n t  @ F a r e  @ R e s e r v e d B y  @ D a t e O f R e s  !@ T i c k e t C o n f i r m e d  ER e s e r v a t i o n   c o m p l e t e .   F a r e   i s   U S $      T i c k e t   N o   : - =S e l e c t   F l t N o   f r o m   d t F l t D e t a i l s  F l i g h t N o  sT h e   f i h g t   a l r e a d y   e x i s t s . P l e a s e   t r y   a n o t h e r   f l i g h t   n u m b e r  yD e p a r t u r e   t i m e   c a n t   b e   g r e a t e r   t h a n   o r   e q u a l   t o   a r r i v a l   t i m e  CI n v a l i d   d e p a r t u r e   o r   a r r i v a l   t i m e  ?I N S E R T   I N T O   [ d t F l t D e t a i l s ]   ( [ F l t N o ] ,   [ O r i g i n ] ,   [ D e s t i n a t i o n ] ,   [ D e p t i m e ] ,   [ A r r t i m e ] , [ A i r c r a f t T y p e ] ,   [ S e a t s E x e c ] ,   [ S e a t s B n ] ,   [ F a r e E x e c ] ,   [ F a r e B n ] ,   [ L a u n c h D a t e ] )   V A L U E S   ( @ F l t N o ,   @ O r i g i n ,   @ D e s t i n a t i o n ,   @ D e p t i m e ,   @ A r r t i m e ,   @ A i r c r a f t T y p e ,   @ S e a t s E x e c ,   @ S e a t s B n ,   @ F a r e E x e c ,   @ F a r e B n , @ L a u n c h D a t e )  @ O r i g i n  @ D e s t i n a t i o n  @ A r r t i m e  @ A i r c r a f t T y p e  @ S e a t s E x e c  @ S e a t s B n  @ F a r e E x e c  @ F a r e B n  @ L a u n c h D a t e  /F l i g h t   a d d   s u s s e s s f u l l y  Ä˚I N S E R T   I N T O   d t F r e q u e n t F l i e r s   S e l e c t   E M a i l ,   D i s c o u n t = @ D i s c o u n t   f r o m   d t P a s s e n g e r D e t a i l s   w h e r e   T o t a l T i m e s F l o w n > = @ T o t a l T i m e s F l o w n  @ D i s c o u n t  !@ T o t a l T i m e s f l o w n  R e c o r d   a d d e d  =s e l e c t   *   f r o m   d t F r e q u e n t F l i e r s  F r e q u e n t F l i e r s  ÄÛI N S E R T   I N T O   d t F r e q u e n t F l i e r s   S e l e c t   E M a i l ,   D i s c o u n t = @ D i s c o u n t   f r o m   d t P a s s e n g e r D e t a i l s   w h e r e   F a r e C o l l e c t e d > = @ F a r e C o l l e c t e d  / 0 1 /    Ä«S E L E C T   F l t N o ,   S U M ( F a r e )   A S   f a r e   f r o m   d t D e p a r t e d F l i g h t s     w h e r e   ( D a t e O f J o u r n e y > @ d a t e )   g r o u p   b y     F l t N o  	F a r e  ÄÕS E L E C T   F l t N o ,   D a t e O f J o u r n e y ,   S U M ( F a r e )   A S   R e v e n u e   f r o m   d t D e p a r t e d F l i g h t s   G R O U P   B Y   D a t e O f J o u r n e y ,   F l t N o  u s g e s  ÄÕS E L E C T   T o p   1 0 0   E m a i l ,   F a r e C o l l e c t e d ,   T o t a l T i m e s F l o w n   f r o m   d t P a s s e n g e r D e t a i l s   o r d e r   b y   T o t a l T i m e s F l o w n    F r e q F l     ≈b∫¿èìÿJ∫i	—K»Q?         Ä?   Ä?    
+mqu  Ä? Ä? m  Ä? Ä?  m}Ä?  Q    q Ä?  Ä? Ä?  Ä? Ä?  mqÄ?u ?  Ä?mqum}Ä?q 	m}Ä?q\:mq}Ä?Ä?Ä?Ä?q}Ä?Ä?mq}Ä?q}Ä?Ä?Ä?qq  ? ?  Ä? Ä?Ä?  Ä?       ? 2#mqq}Ä?q}Ä?Ä?u   +m}Ä?Ä?Ä?Ä?Ä?Ä?Ä?Ä?uqu Ä?  Ä? Ä?Ä?
+mq}qÄ?Ä?u Ä? 	mq}Ä?Ä?mq}Ä?Ä?∑z\V4‡â?_?:EUY]aeiyÄ?Ä?Ä?Ä?Ä?Ä?Ä?Ä? M Ä?        TWrapNonExceptionThrows     ( #Wuhao0212SkySharkWebApplication       Copyright ¬©  2022  ) $3a5a8d68-a9eb-465e-8c5c-d969c7129847   1.0.0.0  M .NETFramework,Version=v4.7.2 TFrameworkDisplayName.NET Framework 4.7.2      lMfb         `~  ``  RSDSŸìFË⁄ ¬K¨Q$ÕÇ?!   E:\Â§ñÊïô‰Ωú‰∏ö\MyRepos\Wuhao0212SkySharkWebApplication\Wuhao0212SkySharkWebApplication\obj\Debug\Wuhao0212SkySharkWebApplication.pdb                                                                                                                   ?          ?                          ?            _CorDllMain mscoree.dll     ˇ%                                                                   Ä                  0  Ä                   H   XÄ  ?          ?4   V S _ V E R S I O N _ I N F O     ?Ô˛                 ?                         D    V a r F i l e I n f o     $    T r a n s l a t i o n       ?L   S t r i n g F i l e I n f o   (   0 0 0 0 0 4 b 0      C o m m e n t s       "   C o m p a n y N a m e         p $  F i l e D e s c r i p t i o n     W a n g B o w e n 0 2 2 7 S k y S h a r k W e b A p p l i c a t i o n   0   F i l e V e r s i o n     1 . 0 . 0 . 0   p (  I n t e r n a l N a m e   W a n g B o w e n 0 2 2 7 S k y S h a r k W e b A p p l i c a t i o n . d l l   H   L e g a l C o p y r i g h t   C o p y r i g h t   ?     2 0 2 2   *   L e g a l T r a d e m a r k s         x (  O r i g i n a l F i l e n a m e   W a n g B o w e n 0 2 2 7 S k y S h a r k W e b A p p l i c a t i o n . d l l   h $  P r o d u c t N a m e     W a n g B o w e n 0 2 2 7 S k y S h a r k W e b A p p l i c a t i o n   4   P r o d u c t V e r s i o n   1 . 0 . 0 . 0   8   A s s e m b l y   V e r s i o n   1 . 0 . 0 . 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                p     ?                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
